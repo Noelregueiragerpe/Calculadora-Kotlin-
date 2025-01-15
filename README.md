@@ -1,5 +1,6 @@
-#Calculadora Kotlin
-##Descripción
+# Calculadora Kotlin
+
+## Descripción
 CalculadoraKotlin es una sencilla aplicación de Android construida usando Jetpack Compose. Esta app permite a los usuarios realizar una suma de dos números de manera fácil y rápida. Está diseñada con una interfaz intuitiva que facilita la interacción con la aplicación y muestra el resultado de la operación o un mensaje de error si se ingresan datos no válidos.
 
 ![image](https://github.com/user-attachments/assets/ab61bee0-7370-43b4-af96-ec13c5dbf9a3)
